@@ -1,0 +1,1 @@
+# 06_panorama_lab.md
